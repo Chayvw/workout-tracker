@@ -1,0 +1,26 @@
+{
+  "name": "gt-workout-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chayvw/gt-workout-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chayvw/gt-workout-tracker/issues"
+  },
+  "homepage": "https://github.com/Chayvw/gt-workout-tracker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.26"
+  }
+}
